@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestDemo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-24T13:42:28" hostname="MacBook-Pro.local" time="0.032">
+  <properties/>
+  <testcase name="Test01()" classname="TestDemo" time="0.032"/>
+  <system-out><![CDATA[next方式接收：
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
